@@ -37,10 +37,12 @@ On Pressing button the status of the service changed to running
 ![image](https://user-images.githubusercontent.com/60294677/216761016-5182e47f-48a0-4a35-aa4e-754bb76392d0.png)
 
 <h2>Features</h2>
+
 - User-friendly interface that makes it easy to run any Linux command
 - Supports all commonly used Linux commands
 - Real-time output display for all commands
 - Ability to save frequently used commands for quick access
+
 
 ---
 
