@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\STUDIOPROJECTS\CHECK_SHELL_STATEFUL\BUILD\WINDOWS\CMAKEFILES\CEE7ECF50A9A73081833A3BB6875C5EF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Admin/StudioProjects/check_shell_stateful/windows -BC:/Users/Admin/StudioProjects/check_shell_stateful/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Admin/StudioProjects/check_shell_stateful/build/windows/check_shell_stateful.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
