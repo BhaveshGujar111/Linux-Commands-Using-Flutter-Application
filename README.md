@@ -1,6 +1,6 @@
-# Linux-Commands-Using-Flutter-Application
+# Run-Service-Start-Stop-Commands-Using-Flutter-Application
 
-The application is designed to be user-friendly and intuitive, allowing users to easily run any Linux command they need using flutter application in windows, linux or macOS.
+The application is designed to be user-friendly and intuitive, allowing users to easily run any Linux command they need using flutter application in windows and linux.
 
 <h2>Getting Started</h2>
 
@@ -38,8 +38,8 @@ On Pressing button the status of the service changed to running
 
 <h2>Features</h2>
 
-- User-friendly interface that makes it easy to run any Linux command
-- Supports all commonly used Linux commands
+- User-friendly interface that makes it easy to run any service based commands in Windows
+- Supports all commonly used svc commands
 - Real-time output display for all commands
 - Ability to save frequently used commands for quick access
 
