@@ -1,6 +1,6 @@
 # Run-Service-Start-Stop-Commands-Using-Flutter-Application
 
-The application is designed to be user-friendly and intuitive, allowing users to easily run any Linux command they need using flutter application in windows and linux.
+The application is designed to be user-friendly and intuitive, allowing users to easily run any service command they need using flutter application in windows and cross-platform.
 
 <h2>Getting Started</h2>
 
